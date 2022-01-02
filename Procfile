@@ -1,0 +1,1 @@
+web: gunicorn MyPersonalTodo.wsgi --log-file -
